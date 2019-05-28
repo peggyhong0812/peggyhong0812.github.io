@@ -1,0 +1,34 @@
+.the-Ul {
+    text-align: center
+}
+
+
+
+.block {
+    display:inline-block;
+    width:250px;
+    height: 250px;
+    background-color: lightgrey;
+    
+    box-sizing: border-box;
+    vertical-align: top;
+    margin-top: 100px;
+    
+}
+
+.title{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.image2 {
+    float: clear;    
+    width:500px;
+    margin:0px;
+}
+
+.gallery img{
+    width: 250px;
+    height: auto;   
+}
